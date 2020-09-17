@@ -1,0 +1,4 @@
+*.pyc
+static/
+_postgres_data/
+_redis_data/
